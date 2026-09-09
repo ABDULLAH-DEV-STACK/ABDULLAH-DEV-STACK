@@ -1,5 +1,5 @@
-Copy and paste this extended, highly detailed README template directly into your GitHub profile. This version deeply expands your engineering methodology, explicitly connects your academic trajectory to the Swedish tech ecosystem, and weaves your analytical hobbies into a cohesive professional narrative.
-# ⚡ Abdullah Rizwan Khan 
+
+# ⚡ Abdullah Khan 
 
 **Systems & Backend Architect | Telematics & Telecom Infrastructure Enthusiast**
 
